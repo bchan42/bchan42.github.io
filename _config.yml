@@ -1,3 +1,13 @@
-title: My Portfolio
-description: A showcase of my work and projects.
+title: Bernette Chan Portfolio
 theme: jekyll-theme-minimal
+description: A showcase of my work and projects.
+logo: /assets/profile.png  # Optional: upload a profile image to /assets/
+show_downloads: false
+
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: Resume
+    url: /resume.pdf  # Optional if you upload a PDF resume
