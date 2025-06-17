@@ -1,0 +1,33 @@
+# title: Bernette Chan Portfolio
+# description: My personal website
+# theme: jekyll-theme-primer
+
+
+# # naviagation tabs
+# nav:
+#   - title: Home
+#     url: /
+#   - title: About
+#     url: /about/
+#   - title: Projects
+#     url: /projects/
+
+project:
+  type: website
+
+website:
+  title: "Bernette Chan"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+
+format:
+  html:
+    theme: flatly
+    toc: false
+
