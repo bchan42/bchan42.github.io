@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## 🛰️ Policy Extraction and Mapping for Wildfire Resilience  
+## Policy Extraction and Mapping for Wildfire Resilience  
 **Data Science Capstone | Jan 2025 – Present**  
 - Python pipeline to extract and classify wildfire policies from city planning docs  
 - NLP methods: rule-based extraction, LLM prompting, LDA topic modeling  
@@ -12,7 +12,7 @@ permalink: /projects/
 
 ---
 
-## 🧠 Neural Network for Spam Email Classification  
+## Neural Network for Spam Email Classification  
 **May 2024**  
 - Java-based neural net for spam classification  
 - Achieved 74% precision, 60% recall, 67% F1 score  
@@ -20,7 +20,7 @@ permalink: /projects/
 
 ---
 
-## 📊 Cal Poly DataFest – Educational Data Analysis  
+## Cal Poly DataFest – Educational Data Analysis  
 **April 2024**  
 - Explored textbook/class engagement data  
 - Applied K-means clustering for student grouping  
@@ -28,7 +28,7 @@ permalink: /projects/
 
 --
 
-## 📍 oSTEM Hackathon – Location-Based Social App  
+## oSTEM Hackathon – Location-Based Social App  
 **March 2024 | 2nd Place**  
 - Co-led web app dev with interactive map interface  
 - Used Python, JS, and MongoDB for GPS-based user matching  
