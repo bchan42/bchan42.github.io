@@ -1,8 +1,10 @@
 title: Bernette Chan Portfolio
+description: My personal website
 # remote_theme: pages-themes/minimal@v0.2.0
 # plugins:
-theme: jekyll-remote-theme
-description: A showcase of my projects and work.
+#   - jekyll-remote-theme
+theme: jekyll-theme-primer
+
 
 # naviagation tabs
 nav:
