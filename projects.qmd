@@ -1,0 +1,50 @@
+---
+title: "Projects"
+format:
+  html:
+    toc: false
+---
+
+## Policy Extraction and Mapping for Wildfire Resilience  
+
+Python pipeline to extract and classify wildfire policies. This also involves spatial tagging with the goal to map areas that are at risk for wildfire.
+
+<!-- add presentation??-->
+<!-- add report -->
+
+---
+
+## Agent-Based Cardiac Model
+
+Developed an agent-based model (ABM) for simulating cardiac action potentials to identify patterns for heart arythmmia 
+
+<!-- add poster -->
+<!-- add github repo? -->
+
+---
+
+## Spam Email Classifier   
+
+Built a Neural Network from scratch in Java with a team to classify spam emails.
+Achieved 74% precision, 60% recall, 67% F1 score.  
+
+ <!-- add github repo  -->
+
+---
+
+## Cal Poly DataFest 2024 – Educational Data Analysis  
+
+Cal Poly's first DataFest event, our group explored class engagement data and applied K-means clustering, among other methods.
+
+
+<!-- add slides? -->
+
+---
+
+## oSTEM Hackathon 2024 – Location-Based Social App  
+**March 2024 | 2nd Place**  
+
+My group won 2nd Place and Most Innovative at the oStem Hackathon, creating a social connection app to bring together members of the LGBTQ+ community. 
+
+<!-- add slides -->
+<!-- add github repo? -->
