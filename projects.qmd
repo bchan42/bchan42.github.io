@@ -10,7 +10,12 @@ format:
 Python pipeline to extract and classify wildfire policies. This also involves spatial tagging with the goal to map areas that are at risk for wildfire.
 
 <!-- add presentation??-->
+<!-- add poster? -->
 <!-- add report -->
+[Poster (PDF)](assets/wildfire_poster.pdf) | [Report (PDF)](assets/data452_report.pdf)
+
+<embed src="assets/wildfire_poster.pdf" type="application/pdf" width="100%" height="400px" />
+
 
 ---
 
@@ -20,6 +25,7 @@ Developed an agent-based model (ABM) for simulating cardiac action potentials to
 
 <!-- add poster -->
 <!-- add github repo? -->
+[Poster (PDF)](assets/abm_frost_poster_2.pdf) | [GitHub Repo](https://github.com/bchan42/abm_frost)
 
 ---
 
@@ -29,6 +35,7 @@ Built a Neural Network from scratch in Java with a team to classify spam emails.
 Achieved 74% precision, 60% recall, 67% F1 score.  
 
  <!-- add github repo  -->
+ [GitHub Repo](https://github.com/bchan42/spamneuralnetwork)
 
 ---
 
@@ -48,3 +55,5 @@ My group won 2nd Place and Most Innovative at the oStem Hackathon, creating a so
 
 <!-- add slides -->
 <!-- add github repo? -->
+[Presentation (PDF)](assets/ostem_hackathon.pdf) | [Github Repo](https://github.com/bchan42/oSTEMhackathon2024)
+
