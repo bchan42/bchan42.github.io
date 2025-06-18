@@ -1,5 +1,15 @@
 ---
 title: "Home"
+about:
+  template: solana
+  links:
+    - href: https://www.linkedin.com/in/bernette-chan-668108281/
+      icon: "linkedin"
+    - href: https://github.com/bchan42
+      icon: "github"
+format:
+  html:
+    toc: false
 ---
 
 Hi! I’m Bernette. Welcome to my personal website!
